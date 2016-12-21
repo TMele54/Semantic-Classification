@@ -10,21 +10,38 @@ Walk through the code to classify movie reviews, enabling and disabling feature 
 Provide the code and ask for students to use the enron emails and ask they make an email spam filter. (30 minutes)
 
 Data Science-109, Natural Language Processing &  Semantic Classification Part 1
+
 Why do we want to work with language?
+
 What is Natural Language Processing?
+
 NLP Components
+
 Challenges of Natural Language Understanding
+
 Semantic Classification
+
 More on Classification & Data
+
 Algorithm
+
 Class Example Problem
+
 Exploratory Analysis
+
 Preprocessing
+
 Feature Extraction
+
 Model Selection
+
 Interpreting Results
+
 Exercise
+
 Review
+
 Natural Language Processing & Semantic Classification Part 2
+
 
 Happy to receive any early feedback on the form of the lecture.
