@@ -2,8 +2,11 @@
 Part 1 of a 2 part series on natural language
 
 Open class, no need to raise hand, its all one conversation etc.
+
 Present lecture slides and begin the in class example.
+
 Walk through the code to classify movie reviews, enabling and disabling feature modifying techniques and observing the output, give examples, provide reasoning. Stop at model point to whiteboard bayes theorem and illustrate whats happening in the Bayes classifier.
+
 Provide the code and ask for students to use the enron emails and ask they make an email spam filter. (30 minutes)
 
 Data Science-109, Natural Language Processing &  Semantic Classification Part 1
@@ -22,4 +25,6 @@ Model Selection
 Interpreting Results
 Exercise
 Review
-Natural Language Processing & Semantic Classification Part 2
+Natural Language Processing & Semantic Classification Part 2
+
+Happy to receive any early feedback on the form of the lecture.
