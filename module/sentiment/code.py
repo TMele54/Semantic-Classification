@@ -124,12 +124,14 @@ pos_reviews = get_reviews(base + _set[1] + ext[2])
 neg_reviews = get_reviews(base + _set[1] + ext[3])
 #neg_reviews = neg_reviews[:1500]
 
+print
 ''' Example output '''
 print "A review looks like this:"
 print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 
 
 ########################################################################################################################
@@ -146,6 +148,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 
 ### Lower Casing ###
 pos_reviews = lower_case(pos_reviews)
@@ -158,6 +161,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 
 ### Tokenization ###
 pos_reviews = tokenize(pos_reviews)
@@ -169,6 +173,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 
 
 ### N-gramming ###
@@ -181,6 +186,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 
 
 ### Remove Numbers ###
@@ -192,6 +198,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ### Randomization ###
@@ -203,6 +210,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ### Remove stops ###
@@ -214,6 +222,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ### Stemming ###
@@ -225,6 +234,7 @@ print "############################################################"
 print pos_reviews[review_number]
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ### Bag of words ###
@@ -236,6 +246,7 @@ print "############################################################"
 print pos_bag
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ### Frequent words ###
@@ -248,6 +259,7 @@ print "############################################################"
 print pos_top
 print "############################################################"
 raw_input('Press Enter to continue')
+print
 '''
 
 ########################################################################################################################
