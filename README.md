@@ -2,9 +2,7 @@
 
 This is also in the ML_Modules repo under projects/NLP
 
-Part 1 of a 2 part series on natural language
-
-Open class, no need to raise hand, its all one conversation etc.
+Part 1 of a 2 part series on natural language, very slow introduction for first timers
 
 Present lecture slides and begin the in class example.
 
@@ -45,6 +43,4 @@ Exercise
 Review
 
 Natural Language Processing & Semantic Classification Part 2
-
-
-Happy to receive any early feedback on the form of the lecture.
+ 
