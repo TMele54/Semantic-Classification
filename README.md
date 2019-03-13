@@ -1,4 +1,7 @@
 # Semantic-Classification
+
+This is also in the ML_Modules repo under projects/NLP
+
 Part 1 of a 2 part series on natural language
 
 Open class, no need to raise hand, its all one conversation etc.
